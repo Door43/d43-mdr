@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mdr:home|Door43 (mdr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mdr|d43-mdr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mdr/archive/master.zip|d43-mdr.zip]]
+
+**Recent Changes**
+{{changes>ns = mdr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mdr|Ethnologue data]]
+
